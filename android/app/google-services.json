@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37471406549",
+    "project_id": "infoboard-31bf0",
+    "storage_bucket": "infoboard-31bf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37471406549:android:3c41e3ebd4e6c01c09155c",
+        "android_client_info": {
+          "package_name": "com.example.infoboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37471406549-rnpa7atqo2gklaf7dubcg7o0p1g11d7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeIwSHZc0Zx0HcBITuUxJw3R-clXF2AAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37471406549-rnpa7atqo2gklaf7dubcg7o0p1g11d7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
